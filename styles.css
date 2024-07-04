@@ -1,0 +1,25 @@
+.block-container{
+    padding-top: 3rem;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.stButton>button {
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 6px;
+    padding: 6px;
+    font-size: 16px;
+}
+
+.stSidebar > div {
+    background-color: #f1f1f1;
+    border-radius: 6px;
+    padding: 18px;
+}
+
+.stTextInput > div {
+    border-radius: 6px;
+}
